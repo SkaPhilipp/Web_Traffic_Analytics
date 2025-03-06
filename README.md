@@ -1,4 +1,4 @@
-# Web_traffic_analytics
+# Web_traffic_analytics 
 
 This is a toy project to generate synthetic datasets that simulate user traffic on a website and to compare different approaches to analyse the traffic.
 
